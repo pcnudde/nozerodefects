@@ -6,7 +6,10 @@
 # https://learn-the-web.algonquindesign.ca/topics/markdown-yaml-cheat-sheet/#yaml
 # https://learnxinyminutes.com/docs/yaml/
 
-title: nozerodefects
+title: No Zero Defects
+author:
+  name: Peter Cnudde
+  email: peter.cnudde@gmail.com
 description: My personal blog
 github_username: pcnudde
 # you can comment the below line out if your repo name is not different than your baseurl
@@ -41,6 +44,7 @@ minima:
   social_links:
     twitter: pcnudde
     github: 
+    linkedin: peter-cnudde-5b0827
 
 # Set this to true to get LaTeX math equation support
 use_math: 
