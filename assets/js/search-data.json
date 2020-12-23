@@ -2,6 +2,17 @@
   
     
         "post0": {
+            "title": "Blog Ideas",
+            "content": "Best books | how to get into ML/AI. Fast.ai | .",
+            "url": "https://pcnudde.github.io/nozerodefects/2021/01/01/Ideas.html",
+            "relUrl": "/2021/01/01/Ideas.html",
+            "date": " • Jan 1, 2021"
+        }
+        
+    
+  
+    
+        ,"post1": {
             "title": "First Post",
             "content": "Just setting up fastpages, I’ll delete this post later. I made an attempt at blogging over a decade ago, and should have continued. Anyway better late than never. . Also trying out the commenting feature. .",
             "url": "https://pcnudde.github.io/nozerodefects/2020/12/22/First-Post.html",
