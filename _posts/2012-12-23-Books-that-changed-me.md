@@ -4,7 +4,7 @@ description: "List of my favorite books"
 layout: post
 toc: false
 comments: false
-hide: true
+hide: false
 ---
 
 I read a lot and while most of them are not that special, many of these books have changed how I think. Sometimes books are able to articulate thoughts you already had in a much clearer way, but often they open totally new worlds and change the way you live.
